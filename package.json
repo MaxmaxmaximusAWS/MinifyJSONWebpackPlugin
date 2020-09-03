@@ -5,6 +5,13 @@
   "peerDependencies": {
     "webpack": "^4.44.1"
   },
+  "keywords":   [
+    "webpack",
+    "JSON",
+    "minify-json",
+    "minify-plugin",
+    "minify-json-webpack-plugin"
+  ],
   "dependencies": {
     "webpack-sources": "^1.4.3"
   }
