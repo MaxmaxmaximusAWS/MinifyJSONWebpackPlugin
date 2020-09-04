@@ -1,6 +1,6 @@
 {
   "name": "minify-json-webpack-plugin",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "index.js",
   "peerDependencies": {
     "webpack": "^4.44.1"

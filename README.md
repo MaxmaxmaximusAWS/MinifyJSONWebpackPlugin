@@ -14,6 +14,8 @@ Usage:
 -
 No need loaders, just add plugin after all plugins, and he minify all json assets which find. If some plugin generates a json file, then my plugin will also find this file and compress =)
 ```js
+const MinifyJSONWebpackPlugin = require('minify-json-webpack-plugin')
+
 webpackConfig = {
   plugins: [
     new MinifyJSONWebpackPlugin()
